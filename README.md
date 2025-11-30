@@ -189,4 +189,4 @@ Example JSON files are provided in the repository for testing purposes
 
 ## Inquiries
 
-This repository designed to generate commercial deployments, open discussion and contributions - so - In case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
+This repository designed to generate commercial deployments, open discussion and contributions so in case of inquiries, feel free to send a message via email to nidalaburaed94@gmail.com
