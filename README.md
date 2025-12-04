@@ -186,6 +186,8 @@ Automatic detection of new JSON-metric file - polling feature
 # Notes
 
 Example JSON files are provided in the repository for testing purposes
+
+
 If this repository attracts enough commercial attention possible support and maintenance possibilities can be considered
 
 ## Inquiries
